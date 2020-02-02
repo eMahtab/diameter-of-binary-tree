@@ -47,6 +47,9 @@ class Solution {
     }
 }
 ```
+Without using global variable
+
+https://leetcode.com/problems/diameter-of-binary-tree/discuss/397308/Elegant-recursive-Java-no-lame-global-variables
 
 # References :
 https://massivealgorithms.blogspot.com/2014/07/diameter-of-binary-tree-geeksforgeeks.html
